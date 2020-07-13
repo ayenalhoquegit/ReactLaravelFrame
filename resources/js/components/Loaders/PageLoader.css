@@ -1,0 +1,7 @@
+.PageLoader{
+	display: none; position: fixed;top: 0; width: 100%; z-index: 1000000; background: rgba(0,0,0,0.5);height: 100%;
+}
+
+.LoaderContent{
+	font-size: 60px;height: 70%; margin-top: 20%; color : #fff;
+}
